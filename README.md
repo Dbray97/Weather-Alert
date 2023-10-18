@@ -7,4 +7,3 @@ In order to enhance my Python and scrpting skills I started With this project. I
 
 <p align="center">
 Cities and Temperature <br/>
-https://github-production-user-asset-6210df.s3.amazonaws.com/138147547/276360697-9f513ecb-e6f7-4d97-91aa-bbf792eeac4e.png
